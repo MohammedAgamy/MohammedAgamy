@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Agamy</h1>
 <h3 align="center">Junior Android Developer</h3>
-<h4  align="center"Innovative Android developer. Successfully finished several Android 
+<h4 align="center">Innovative Android developer. Successfully finished several Android 
 courses and delivered some Android small projects.</h3>
 
 <h3 align="left">Connect with me:</h3>
