@@ -284,15 +284,6 @@ I am Mohamed Agamy, an Android Developer, I specialize in creating dynamic and u
 <a href="https://developer.android.com/" target="_blank"><img alt="Android" src="https://img.shields.io/badge/Android-%230269B.svg?logo=Android&logoColor=white"></a>
 
 
-<br> 
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
-
-
-<p align="center"><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=alamin-babu&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
-
-<p align="center"><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=alamin-babu&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
-
 <br>
 
 ## <b>💪Quote || Fact</b>
@@ -305,7 +296,4 @@ I am Mohamed Agamy, an Android Developer, I specialize in creating dynamic and u
 #### <p align="center"><b>Thank you for taking the time to read my profile 🤣🤣</b></p>
 
 
------
-Credits: [Al-Amin](https://github.com/alamin-babu)
 
-Last Edited on: 04/07/2024
